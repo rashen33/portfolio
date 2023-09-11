@@ -48,7 +48,7 @@ const Navbar = () => {
       {/* Social icons */}
       <div className="hidden lg:flex flex fixed flex-col top-[35%] left-0">
         <ul>
-        <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-8px] duration-300 bg-blue-600">
+        <li className="rounded-lg w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-8px] duration-300 bg-blue-600">
             <a
               href="/"
               className="flex justify-between items-center w-full text-while"
@@ -56,7 +56,7 @@ const Navbar = () => {
               Linkedin <FaLinkedin size={30} />
             </a>
           </li>        
-          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-8px] duration-300 bg-[#333]">
+          <li className="rounded-lg w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-8px] duration-300 bg-[#333]">
             <a
               href="/"
               className="flex justify-between items-center w-full text-while"
@@ -64,7 +64,7 @@ const Navbar = () => {
               Github <FaGithub size={30} />
             </a>
           </li>
-          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-8px] duration-300 bg-[#6fc2b0]">
+          <li className="rounded-lg w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-8px] duration-300 bg-[#6fc2b0]">
             <a
               href="/"
               className="flex justify-between items-center w-full text-while"
@@ -72,7 +72,7 @@ const Navbar = () => {
               Email <HiOutlineMail size={30} />
             </a>
           </li>
-          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-8px] duration-300 bg-[#565f69]">
+          <li className="rounded-lg w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-8px] duration-300 bg-[#565f69]">
             <a
               href="/"
               className="flex justify-between items-center w-full text-while"
