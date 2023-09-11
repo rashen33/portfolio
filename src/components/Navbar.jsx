@@ -8,7 +8,7 @@ const Navbar = () => {
   const handleClick = () => setNav(!nav);
 
   return (
-    <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#272829] text-white">
+    <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#272829] text-[#FFF6E0]">
       {/* Logo */}
       <div>
         <h1 className="text-2xl font-bold">Rashen Fernando .</h1>
