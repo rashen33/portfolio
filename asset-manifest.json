@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio-react-app/static/css/main.dc7eaa77.css",
+    "main.js": "/portfolio-react-app/static/js/main.388828d6.js",
+    "static/media/Resume.pdf": "/portfolio-react-app/static/media/Resume.8a4453d2452513abddf7.pdf",
+    "static/media/SkyCast.PNG": "/portfolio-react-app/static/media/SkyCast.7f30c443dd02d88115b2.PNG",
+    "static/media/DrumKit.PNG": "/portfolio-react-app/static/media/DrumKit.4ca52850ed06c631eccd.PNG",
+    "static/media/ThogaKade.PNG": "/portfolio-react-app/static/media/ThogaKade.9bfd1c9e53225a1b6dc3.PNG",
+    "static/media/SmartHomeController.PNG": "/portfolio-react-app/static/media/SmartHomeController.74d11323f2a3da9c3684.PNG",
+    "static/media/react.png": "/portfolio-react-app/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/SpringBoot.png": "/portfolio-react-app/static/media/SpringBoot.b068959248e75f256377.png",
+    "static/media/EduSync.jpeg": "/portfolio-react-app/static/media/EduSync.5a9a6caf722e8c3c500b.jpeg",
+    "static/media/node.png": "/portfolio-react-app/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/SimonGame.PNG": "/portfolio-react-app/static/media/SimonGame.4387b481847bbe55109a.PNG",
+    "static/media/github.png": "/portfolio-react-app/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/portfolio-react-app/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/portfolio-react-app/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/portfolio-react-app/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/portfolio-react-app/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/Java.webp": "/portfolio-react-app/static/media/Java.2ad736f544afeb32b9fe.webp",
+    "index.html": "/portfolio-react-app/index.html",
+    "main.dc7eaa77.css.map": "/portfolio-react-app/static/css/main.dc7eaa77.css.map",
+    "main.388828d6.js.map": "/portfolio-react-app/static/js/main.388828d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc7eaa77.css",
+    "static/js/main.388828d6.js"
+  ]
+}
