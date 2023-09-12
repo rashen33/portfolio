@@ -3,6 +3,7 @@ import { FaBars, FaTimes, FaGithub, FaLinkedin } from "react-icons/fa";
 import { BsFillPersonLinesFill } from "react-icons/bs";
 import { HiOutlineMail } from "react-icons/hi";
 import { Link } from "react-scroll";
+import Resume from '../assets/Resume.pdf';
 
 const Navbar = () => {
   const [nav, setNav] = useState(false);
@@ -115,7 +116,7 @@ const Navbar = () => {
           </li>
           <li className="rounded-lg w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-8px] duration-300 bg-[#565f69]">
             <a
-              href="/"
+              href="../assets/Resume.pdf" download={Resume}
               className="flex justify-between items-center w-full text-while"
             >
               Resume <BsFillPersonLinesFill size={30} />
