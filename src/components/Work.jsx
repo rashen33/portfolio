@@ -4,6 +4,7 @@ import ThogaKade from "../assets/ThogaKade.PNG";
 import SkyCast from "../assets/SkyCast.PNG";
 import SimonGame from "../assets/SimonGame.PNG";
 import DrumKit from "../assets/DrumKit.PNG";
+import SmartHome from '../assets/SmartHomeController.PNG'
 
 const Work = () => {
   return (
@@ -120,13 +121,13 @@ const Work = () => {
           </div>
 
           <div
-            style={{ backgroundImage: `url(${EduSync})` }}
+            style={{ backgroundImage: `url(${SmartHome})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effect */}
             <div className="opacity-0 group-hover:opacity-100 text-center">
               <span className="text-2xl font-bold text-white tracking-wider">
-                Student Management System
+                Smart Home Controller
               </span>
 
               <div className="pt-8 text-center">
