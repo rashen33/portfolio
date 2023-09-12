@@ -1,6 +1,7 @@
 import React from "react";
 import { HiArrowNarrowRight } from "react-icons/hi";
 import { Link } from "react-scroll";
+import Typewriter from "typewriter-effect";
 
 const Home = () => {
   return (
@@ -12,11 +13,19 @@ const Home = () => {
           Rashen Fernando
         </h1>
         <h2 className="text-4xl sm:text-7xl font-bold text-white">
-          I'm a Full Stack Developer.
+          <Typewriter
+            options={{
+              strings: ["I'm a Full Stack Developer"],
+              autoStart: true,
+              loop: true,
+            }}
+          />
+          {/* I'm a Full Stack Developer. */}
         </h2>
         <p className="text-white py-4 max-w-[700px]">
-          I'm a full-stack developer building pretty digital products.Currently
-          I'm focused on builidng responsive full-stack web applications.
+          I am a passionate full stack developer dedicated to crafting
+          innovative digital solutions that seamlessly bridge the gap between
+          front-end aesthetics and back-end functionality.
         </p>
 
         <div>
