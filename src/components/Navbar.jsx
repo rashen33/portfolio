@@ -107,7 +107,7 @@ const Navbar = () => {
           </li>
           <li className="rounded-lg w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-8px] duration-300 bg-[#6fc2b0]">
             <a
-              href="rashen598@gmail.com"
+              href="mailto:rashen598@gmail.com?subject = Feedback&body = Message"
               className="flex justify-between items-center w-full text-while"
             >
               Email <HiOutlineMail size={30} />
