@@ -21,7 +21,7 @@ const About = () => {
           <div>
             <p>
               As a highly motivated and adaptable engineering graduate, I
-              amdedicated to pushing the boundaries of technology and
+              am dedicated to pushing the boundaries of technology and
               drivinginnovation. My commitment to staying at the forefront of
               the ever-evolving software engineering landscape ensures that I am
               not onlywell-versed in established industry standards but also

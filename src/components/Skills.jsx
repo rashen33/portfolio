@@ -7,6 +7,8 @@ import ReactI from "../assets/react.png";
 import Node from "../assets/node.png";
 import Github from "../assets/github.png";
 import Tailwind from "../assets/tailwind.png";
+import Java from "../assets/Java.webp";
+import SpringBoot from "../assets/SpringBoot.png";
 
 const Skills = () => {
   return (
@@ -37,17 +39,18 @@ const Skills = () => {
             <img className="w-20 mx-auto" src={ReactI} alt="HTML icon" />
             <p className="my-4">React</p>
           </div>
+
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-            <img className="w-20 mx-auto" src={Node} alt="HTML icon" />
-            <p className="my-4">Node</p>
+            <img className="w-20 mx-auto" src={Java} alt="HTML icon" />
+            <p className="my-4">Java</p>
+          </div>
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <img className="w-20 mx-auto" src={SpringBoot} alt="HTML icon" />
+            <p className="my-4">Spring Boot</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-20 mx-auto" src={Node} alt="HTML icon" />
             <p className="my-4">Node</p>
-          </div>
-          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-            <img className="w-20 mx-auto" src={Github} alt="HTML icon" />
-            <p className="my-4">Github</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-20 mx-auto" src={Tailwind} alt="HTML icon" />
